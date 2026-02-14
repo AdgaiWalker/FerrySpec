@@ -1,6 +1,6 @@
 ﻿FerrySpec ⛴️
 World Adaptive Protocol for Entropy Reduction.
-基于辩证唯物主义的通用熵减协议。
+基于辩证唯物主义的通用熵减协议，基于ai的边界确立了ai与人的分权。
 简述：FerrySpec 是一个 AI 协作协议。它通过先写规划、后写代码、记录错误并持续优化的流程，确保 AI 产出符合预期。它强制同步文档与结果，防止逻辑脱节，确保所有关键决策由人类最终确认。
 0. 渡者宣言 (The Manifesto)
 FerrySpec 是什么？
