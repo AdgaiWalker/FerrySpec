@@ -2,7 +2,7 @@
 
 License: CC BY 4.0
 
-**通过造一个世界通用自适应 skill 工程框架，将 AI 应用从虚拟世界到物理世界，从必然王国到自由王国。**
+**通过造一个人机协作的世界通用自适应 skill 工程框架，将 AI 应用从虚拟世界到物理世界，从必然王国到自由王国。**
 
 *World Adaptive Protocol for Entropy Reduction.*
 
