@@ -1,16 +1,20 @@
+<div align="center">
+
 # 渡轮 ⛴️
 
-许可：CC BY 4.0
+**FerrySpec 是一套面向人机协作的世界协议。**
 
-通过构建人机协作的世界通用技能工程框架，推动人工智能应用从虚拟世界到物理世界，从必然王国到自由王国。
-
+它关心的不是单次提示词，而是意图、执行、记忆、进化怎样接成一条链。<br>
+通过构建人机协作的世界通用技能工程框架，推动人工智能应用从虚拟世界到物理世界，从必然王国到自由王国。<br>
 全球自适应熵减协议。
-
----
 
 ![类型](https://img.shields.io/badge/类型-理论框架-blue?style=flat-square)
 ![状态](https://img.shields.io/badge/状态-v1.0.0-success?style=flat-square)
 ![许可](https://img.shields.io/badge/许可-CC_BY_4.0-green?style=flat-square)
+
+许可：CC BY 4.0
+
+</div>
 
 ---
 
